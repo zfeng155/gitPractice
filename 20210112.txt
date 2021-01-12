@@ -3,4 +3,5 @@ My name is xxx.
 
 dev:my name is zzz!
 
-remote repositor:modify 6 row
+remote repository:modify 6 row
+m:test
