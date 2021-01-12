@@ -3,5 +3,4 @@ My name is xxx.
 
 dev:my name is zzz!
 
-remote repository:modify 6 row
-m:test
+dev:test clash
